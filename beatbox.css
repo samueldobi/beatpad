@@ -4,7 +4,7 @@
 .beatpad{
     width: 600px;
     height: 270px;
-    background-image: url(beatbox/assets/Optimized-gradient1.jpg);
+    background-image: url(../beatpad/assets/Optimized-gradient1.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
     margin: 0 auto; 
